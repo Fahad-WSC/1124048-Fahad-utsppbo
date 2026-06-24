@@ -24,7 +24,7 @@ public class DeviceView {
             } else if (pilihan == 2) {
                 tampilkanDevice();
             }else {
-                System.out.println("Opsi tidak tersedia. Silakan masukkan angka 1-3.");
+                System.out.println("Opsi tidak tersedia. Silakan masukkan angka 1-2.");
             }
     }
 
