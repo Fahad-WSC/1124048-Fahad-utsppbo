@@ -5,7 +5,7 @@ import models.*;
 import util.InputUtil;
 import java.util.ArrayList;
 
-public class KendaraanView {
+public class DeviceView {
     private final DeviceController deviceController;
 
     public KendaraanView(DeviceController deviceController) {
