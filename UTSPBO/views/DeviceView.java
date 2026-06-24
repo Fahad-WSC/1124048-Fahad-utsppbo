@@ -81,7 +81,7 @@ public class KendaraanView {
             controller.tambahKomputer(brand, model, os , ramSize, storageSize, gpu, cpu);
 
         }else {
-            System.out.println("Pilihan jenis kendaraan salah!");
+            System.out.println("Error");
         }
     }
 
