@@ -8,7 +8,7 @@ import java.util.ArrayList;
 public class DeviceView {
     private final DeviceController deviceController;
 
-    public KendaraanView(DeviceController deviceController) {
+    public DeviceView(DeviceController deviceController) {
         this.deviceController = controller;
     }
 
